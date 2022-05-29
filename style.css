@@ -1,0 +1,78 @@
+body{
+    font-family: 'Karla', sans-serif;
+    background-image: url('imggg.jfif');
+    background-size: 200% 200%;
+    background-repeat: no-repeat;
+}
+section{
+    width: 40vw;
+    height: 60vh;
+    margin-left: 30vw;
+    margin-top: 20vh;
+    
+    
+}
+.first_div{
+    height:20vh;
+    padding: 1vmax;
+    background-color: white;
+    border-top-right-radius: 0.8vh;
+    border-top-left-radius: 0.8vh;
+}
+.first_div h3{
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+    font-size:1.6vmax;
+    margin-bottom: 0.1vh;
+    margin-top: 0.5vh;
+}
+.first_div h4{
+    color: hsl(71, 73%, 54%);
+    font-size: 1.2vmax;
+}
+
+.second_div{
+    background-color:hsl(179, 62%, 38%) ;
+    width: 18vw;
+    position: absolute;
+    padding: 1vmax;
+    color: white;
+    border-bottom-left-radius: 0.8vh;
+}
+
+.third_div{
+    background-color: hsl(179, 62%, 43%);
+    width: 18vw;
+    position:relative;
+    left: 20vw;
+    padding: 1vmax;
+    color: white;
+    border-bottom-right-radius: 0.8vh;   
+}
+.third_div p{
+    font-size: 1.9vh;
+    line-height:1.33;
+}
+.dollar{
+    font-size: 2vmax;
+    font-weight: 700;
+    position: absolute;
+
+}
+.month{
+    position: relative;
+    left: 4.5vw;
+    top: 1.2vh;
+}
+.btn{
+    font-size: 1vmax;
+    color: white;
+    background-color:hsl(71, 73%, 54%) ;
+    border: 2px solid transparent;
+    margin-left: 3vw;
+    margin-top: 1.7vh;
+    margin-bottom: 1.9vh;
+    border-radius: 0.8vh;
+    padding : 1vh 8vh;
+    
+}
